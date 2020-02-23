@@ -1,0 +1,50 @@
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\FOLDER CREATOR\FOLDER CREATOR\bin\Debug\FOLDER_CREATOR.exe.config
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\FOLDER CREATOR\FOLDER CREATOR\bin\Debug\FOLDER_CREATOR.exe
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\FOLDER CREATOR\FOLDER CREATOR\bin\Debug\FOLDER_CREATOR.pdb
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\FOLDER CREATOR\FOLDER CREATOR\bin\Debug\MetroFramework.Design.dll
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\FOLDER CREATOR\FOLDER CREATOR\bin\Debug\MetroFramework.dll
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\FOLDER CREATOR\FOLDER CREATOR\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FOLDER_CREATOR.csprojAssemblyReference.cache
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FolderManipulator.Form1.resources
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FolderManipulator.FrmMain1.resources
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FOLDER_CREATOR.FrmMain.resources
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FOLDER_CREATOR.Properties.Resources.resources
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FOLDER_CREATOR.csproj.GenerateResource.cache
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FOLDER_CREATOR.csproj.CopyComplete
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FOLDER_CREATOR.exe
+C:\Users\JCM\Documents\Visual Studio 2019\Projects\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FOLDER_CREATOR.pdb
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\FOLDER CREATOR\FOLDER CREATOR\bin\Debug\FOLDER_CREATOR.exe.config
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\FOLDER CREATOR\FOLDER CREATOR\bin\Debug\FOLDER_CREATOR.exe
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\FOLDER CREATOR\FOLDER CREATOR\bin\Debug\FOLDER_CREATOR.pdb
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\FOLDER CREATOR\FOLDER CREATOR\bin\Debug\MetroFramework.Design.dll
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\FOLDER CREATOR\FOLDER CREATOR\bin\Debug\MetroFramework.dll
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\FOLDER CREATOR\FOLDER CREATOR\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FOLDER_CREATOR.csprojResolveAssemblyReference.cache
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FOLDER_CREATOR.Frm_Main.resources
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FOLDER_CREATOR.Properties.Resources.resources
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FOLDER_CREATOR.csproj.GenerateResource.Cache
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FOLDER_CREATOR.exe
+C:\Users\JCM\Documents\Visual Studio 2012\Projects\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FOLDER_CREATOR.pdb
+C:\Users\JCM\Desktop\FOLDER CREATOR\FOLDER CREATOR\bin\Debug\FOLDER_CREATOR.exe.config
+C:\Users\JCM\Desktop\FOLDER CREATOR\FOLDER CREATOR\bin\Debug\FOLDER_CREATOR.exe
+C:\Users\JCM\Desktop\FOLDER CREATOR\FOLDER CREATOR\bin\Debug\FOLDER_CREATOR.pdb
+C:\Users\JCM\Desktop\FOLDER CREATOR\FOLDER CREATOR\bin\Debug\MetroFramework.Design.dll
+C:\Users\JCM\Desktop\FOLDER CREATOR\FOLDER CREATOR\bin\Debug\MetroFramework.dll
+C:\Users\JCM\Desktop\FOLDER CREATOR\FOLDER CREATOR\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\JCM\Desktop\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FOLDER_CREATOR.Form_Main.resources
+C:\Users\JCM\Desktop\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FOLDER_CREATOR.Properties.Resources.resources
+C:\Users\JCM\Desktop\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FOLDER_CREATOR.csproj.GenerateResource.Cache
+C:\Users\JCM\Desktop\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FOLDER_CREATOR.exe
+C:\Users\JCM\Desktop\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FOLDER_CREATOR.pdb
+C:\Users\JCM\Desktop\FINALS\FOLDER CREATOR\FOLDER CREATOR\bin\Debug\FOLDER_CREATOR.exe.config
+C:\Users\JCM\Desktop\FINALS\FOLDER CREATOR\FOLDER CREATOR\bin\Debug\FOLDER_CREATOR.exe
+C:\Users\JCM\Desktop\FINALS\FOLDER CREATOR\FOLDER CREATOR\bin\Debug\FOLDER_CREATOR.pdb
+C:\Users\JCM\Desktop\FINALS\FOLDER CREATOR\FOLDER CREATOR\bin\Debug\MetroFramework.Design.dll
+C:\Users\JCM\Desktop\FINALS\FOLDER CREATOR\FOLDER CREATOR\bin\Debug\MetroFramework.dll
+C:\Users\JCM\Desktop\FINALS\FOLDER CREATOR\FOLDER CREATOR\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\JCM\Desktop\FINALS\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FOLDER_CREATOR.csprojResolveAssemblyReference.cache
+C:\Users\JCM\Desktop\FINALS\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FOLDER_CREATOR.Form_Main.resources
+C:\Users\JCM\Desktop\FINALS\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FOLDER_CREATOR.Properties.Resources.resources
+C:\Users\JCM\Desktop\FINALS\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FOLDER_CREATOR.csproj.GenerateResource.Cache
+C:\Users\JCM\Desktop\FINALS\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FOLDER_CREATOR.exe
+C:\Users\JCM\Desktop\FINALS\FOLDER CREATOR\FOLDER CREATOR\obj\Debug\FOLDER_CREATOR.pdb

@@ -1,0 +1,12 @@
+C:\Users\JCM\source\repos\FolderManipulator\FolderManipulator\bin\Debug\FolderManipulator.exe.config
+C:\Users\JCM\source\repos\FolderManipulator\FolderManipulator\bin\Debug\FolderManipulator.exe
+C:\Users\JCM\source\repos\FolderManipulator\FolderManipulator\bin\Debug\FolderManipulator.pdb
+C:\Users\JCM\source\repos\FolderManipulator\FolderManipulator\obj\Debug\FolderManipulator.Form1.resources
+C:\Users\JCM\source\repos\FolderManipulator\FolderManipulator\obj\Debug\FolderManipulator.FrmMain1.resources
+C:\Users\JCM\source\repos\FolderManipulator\FolderManipulator\obj\Debug\FolderManipulator.FrmMain.resources
+C:\Users\JCM\source\repos\FolderManipulator\FolderManipulator\obj\Debug\FolderManipulator.Form3.resources
+C:\Users\JCM\source\repos\FolderManipulator\FolderManipulator\obj\Debug\FolderManipulator.Properties.Resources.resources
+C:\Users\JCM\source\repos\FolderManipulator\FolderManipulator\obj\Debug\FolderManipulator.csproj.GenerateResource.cache
+C:\Users\JCM\source\repos\FolderManipulator\FolderManipulator\obj\Debug\FolderManipulator.csproj.CoreCompileInputs.cache
+C:\Users\JCM\source\repos\FolderManipulator\FolderManipulator\obj\Debug\FolderManipulator.exe
+C:\Users\JCM\source\repos\FolderManipulator\FolderManipulator\obj\Debug\FolderManipulator.pdb

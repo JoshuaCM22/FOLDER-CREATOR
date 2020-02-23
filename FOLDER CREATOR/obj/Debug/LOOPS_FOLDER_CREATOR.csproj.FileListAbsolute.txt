@@ -1,0 +1,15 @@
+C:\Users\JCM\source\repos\LOOPS FOLDER CREATOR\LOOPS FOLDER CREATOR\bin\Debug\LOOPS_FOLDER_CREATOR.exe.config
+C:\Users\JCM\source\repos\LOOPS FOLDER CREATOR\LOOPS FOLDER CREATOR\bin\Debug\LOOPS_FOLDER_CREATOR.exe
+C:\Users\JCM\source\repos\LOOPS FOLDER CREATOR\LOOPS FOLDER CREATOR\bin\Debug\LOOPS_FOLDER_CREATOR.pdb
+C:\Users\JCM\source\repos\LOOPS FOLDER CREATOR\LOOPS FOLDER CREATOR\bin\Debug\MetroFramework.Design.dll
+C:\Users\JCM\source\repos\LOOPS FOLDER CREATOR\LOOPS FOLDER CREATOR\bin\Debug\MetroFramework.dll
+C:\Users\JCM\source\repos\LOOPS FOLDER CREATOR\LOOPS FOLDER CREATOR\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\JCM\source\repos\LOOPS FOLDER CREATOR\LOOPS FOLDER CREATOR\obj\Debug\FolderManipulator.Form1.resources
+C:\Users\JCM\source\repos\LOOPS FOLDER CREATOR\LOOPS FOLDER CREATOR\obj\Debug\FolderManipulator.FrmMain1.resources
+C:\Users\JCM\source\repos\LOOPS FOLDER CREATOR\LOOPS FOLDER CREATOR\obj\Debug\FolderManipulator.FrmMain.resources
+C:\Users\JCM\source\repos\LOOPS FOLDER CREATOR\LOOPS FOLDER CREATOR\obj\Debug\LOOPS_FOLDER_CREATOR.Properties.Resources.resources
+C:\Users\JCM\source\repos\LOOPS FOLDER CREATOR\LOOPS FOLDER CREATOR\obj\Debug\LOOPS_FOLDER_CREATOR.csproj.GenerateResource.cache
+C:\Users\JCM\source\repos\LOOPS FOLDER CREATOR\LOOPS FOLDER CREATOR\obj\Debug\LOOPS_FOLDER_CREATOR.csproj.CoreCompileInputs.cache
+C:\Users\JCM\source\repos\LOOPS FOLDER CREATOR\LOOPS FOLDER CREATOR\obj\Debug\LOOPS_FOLDER_CREATOR.csproj.CopyComplete
+C:\Users\JCM\source\repos\LOOPS FOLDER CREATOR\LOOPS FOLDER CREATOR\obj\Debug\LOOPS_FOLDER_CREATOR.exe
+C:\Users\JCM\source\repos\LOOPS FOLDER CREATOR\LOOPS FOLDER CREATOR\obj\Debug\LOOPS_FOLDER_CREATOR.pdb
